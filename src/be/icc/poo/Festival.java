@@ -2,7 +2,6 @@ package be.icc.poo;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.Set;
 import java.util.TreeSet;
 
@@ -104,11 +103,6 @@ public class Festival extends Evenement implements Computable{
 		return false;
 	}
 
-	@Override
-	public int mediumCapacity() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
 
 	@Override
 	public String toString() {
