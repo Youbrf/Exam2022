@@ -1,0 +1,13 @@
+<Festival nom="Brussels Game Festival" free="true">
+  <texte>Festival du jeu de Bruxelles</texte>
+  <dateEvent>2022-08-28</dateEvent>
+  <maxCapacity>1000</maxCapacity>
+  <gaga class="sorted-set">
+    <local-date>2022-09-01</local-date>
+    <local-date>2022-09-03</local-date>
+    <local-date>2022-09-06</local-date>
+  </gaga>
+  <stand category="cartes" capacity="15">
+    <titre>Poker</titre>
+  </stand>
+</Festival>
